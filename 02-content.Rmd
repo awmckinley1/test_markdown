@@ -1,0 +1,4 @@
+# Complex numbers
+
+\section*{Quadratics and Compound Numbers}
+This workshop revised the principles behind quadratic equations covered in GCSE maths; through the study of quadratics you will have found some equations which \emph{apparently have no solution}. This is a situation which is anathema to mathematicians and therefore must be possible.  These solutions of quadratics and \emph{higher order polynomials}  lead us to the principle of compound numbers -- numbers which are not simply ``one dimensional'', instead having two separate \textbf{but intrinsically linked} components.
